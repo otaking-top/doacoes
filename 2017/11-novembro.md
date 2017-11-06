@@ -11,6 +11,7 @@
 
 | Operação | | Valor |
 |---|---|---|
+| Mês anterior | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) | R$ 0,00 |
 | Doação #2017-11-01 | ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) | R$ 100,00 |
 | Taxa Doação #2017-11-01 | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) | - R$ 5,59 |
 | **Total** | ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) | **R$ 94,91** |
